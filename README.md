@@ -2,6 +2,8 @@
 
 This is a Pokémon card matching game built with Python and Tkinter. The game fetches Pokémon data from the PokéAPI and displays a grid of cards. The objective is to match pairs of Pokémon cards.
 
+<img width="623" alt="image" src="https://github.com/user-attachments/assets/0d9eb5c3-afa9-4224-99fd-f6e14becdde7">
+
 ## Features
 
 - Three difficulty levels: Easy (4x4), Medium (6x6), and Hard (8x8)
