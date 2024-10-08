@@ -59,7 +59,19 @@ Install the required libraries:
 pip install -r requirements.txt
 ```
 
-### Step 4: Run the Program
+### Step 4: Install python-tk
+
+```sh
+sudo apt-get install python3-tk
+```
+
+Or with brew:
+
+```sh
+brew install python-tk
+```
+
+### Step 5: Run the Program
 Run the game:
 
 ```sh
